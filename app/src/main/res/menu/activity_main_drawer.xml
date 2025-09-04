@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_Settings"
+        android:icon="@drawable/ic_outline_settings_24"
+        android:title="" />
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/round_favorite_border_24"
+        android:title="" />
+    <item
+        android:id="@+id/nav_downloaded"
+        android:icon="@drawable/ic_downloaded"
+        android:title="" />
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/outline_home_24"
+        android:title="" />
+</menu>

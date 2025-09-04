@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="youHaventDownloadImages">تنبية! يبدو انك لم تقم بتحميل اي صورةٍ بعد</string>
+    <string name="noImagesInFolder">تنبية! هذا المجلد لا يحتوي على خلفيات صالحة</string>
+    <string name="selectValidFolder">رجاءً اختر مجلداً صالحاً</string>
+    <string name="errorGettingCategories">خطأ في تحيل قائمة التصنيفات</string>
+    <string name="selectAnyImage">قم بتحديد اي صورة داخل المجلد المطلوب</string>
+    <string name="PERMISSION_GRANTED">مُنح الاذن بنجاح</string>
+    <string name="PERMISSION_DENIED">فشل اعطاء السماحية</string>
+    <string name="app_name">مخزن الخلفياتً</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="menu_home">الرئيسية</string>
+    <string name="favorite">المفظلة</string>
+    <string name="nav_downloaded_images">المنزلة</string>
+    <string name="about_app">حول التطبيق</string>
+    <string name="share">مشاركة</string>
+    <string name="signout">تسجيل الخروج</string>
+    <string name="setWallpaper">تعيين خلفية</string>
+    <string name="download">تحميل</string>
+    <string name="it_s_seconds_to_load_image">ثواني لتحميل الصورة ...</string>
+    <string name="failedToLoadImage">عفواً ؛ حدث خطأ عند تحميل الصورة ؛ حاول مرة أخرى</string>
+    <string name="done">تم</string>
+    <string name="failed">فشل</string>
+    <string name="permissionNecessary">الوصول الى التخزين مطلوب لأجل حفظ صورك</string>
+    <string name="set_new_wallpaper_every">خلفية جديدة كل</string>
+    <string name="one_day">يوم</string>
+    <string name="download_over">تحميل بواسطة</string>
+    <string name="any_thing">أي شيء</string>
+    <string name="keep_this_app_from_stopping">أمنع توقف هذا التطبيق</string>
+    <string name="click_to_exclude_this_app">اضغط لاستثناء التطبيق من تحسين البطارية والذي يمكن أن يؤدي الى ايقاف خدمة تغيير الخلفيات تلقائيا</string>
+    <string name="enable_auto_changer_wallpaper">تفعيل خدمة تغيير الخلفيات تلقائيا</string>
+    <string name="share_msg">تطبيق جميل لأجل خلفيات هاتفك؛ انه مخزن الخلفيات المتغيرة تلقائيا ، احصل عليه من Google Play</string>
+    <string name="version">النسخة</string>
+    <string name="OK">موافق</string>
+    <string name="this_app">هذا التطبيق</string>
+    <string name="outOfBatOpt">الخروج من قائمة تحسين البطارية</string>
+    <string name="batOptDet">اذهب الى >> قائمة تحسين البطارية >> اختر كل التطبيقات >> ثم اختر</string>
+    <string name="disableIt">>> ألغِ التحسين</string>
+    <string name="cancel">الغاء</string>
+    <string name="wallpapers_source">مصدر الخلفيات</string>
+    <string name="auto_change_service">خدمة تغيير االخلفيات التلقائي</string>
+    <string name="another_settings">اعدادات اخرى</string>
+    <string name="set_as">تعيين الخلفيات كـ</string>
+    <string name="both">شاشة القفل والرئيسية</string>
+    <string name="you_have_not_made_any_favorite_image">لم تقم بتعيين أي صورة مفظلة بعد.</string>
+    <string name="you_may_haven_t_downloaded_images_yet">حمل خلفيات وستجدها هنا</string>
+    <string name="folder_path">مسار المجلد</string>
+    <string name="category">"التصنيف: "</string>
+    <string name="don_t_change_my_set_wallpaper">لا تغير خلفيتي</string>
+    <string name="noFavImages">خطأ! ربما لم تقم بتعيين صور كمفظلة</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="change_wallpaper_at">تغيير الخلفية عند الساعة</string>
+    <string name="failedToLoadNewWallpaper">فشل تحميل خلفية جديدة بسبب مشكلة الاتصال بالانترنت</string>
+    <string name="update_wallpaper_daily">تحديث يومي للخلفية</string>
+    <string name="wallpaper_every_day">خلفية جديدة كل يوم</string>
+    <string name="download_over_mobile_data">السماح باستخدام بيانات الهاتف</string>
+    <string name="swONDesc">فعَل هذا الخيار لتسمح لهذ التطبيق بتغيير خلفية هاتفك يوميا</string>
+    <string name="privacyPolicy">سياسة الخصوصية</string>
+    <string name="termsOfUse">بنود الاستخدام</string>
+    <string name="shareYourIdeas">شاركنا بأفكارك</string>
+    <string name="thump_image">Thump Image</string>
+    <string name="settings_toolbar_title">الاعدادات</string>
+    <string name="oneCategoryMustBeSelected">One Category Must Be Selected!</string>
+    <string name="errorSelectingCategory">Error happened when selecting this category</string>
+
+    <string-array name="set_as">
+        <item>الشاشة الرئيسية</item>
+        <item>شاشة القفل</item>
+        <item>شاشة القفل والرئيسية</item>
+    </string-array>
+
+    <string-array name="dn_method">
+        <item>أي شيئ</item>
+        <item>Wi-Fi فقط</item>
+        <item>بيانات الهاتف فقط</item>
+    </string-array>
+
+    <string-array name="sources">
+        <item>الخلفيات في هذا التطبيق</item>
+        <item>الخلفيات المنزلة</item>
+        <item>الخلفيات المفظلة</item>
+        <item>من مجلد على ذاكرة الهاتف</item>
+    </string-array>
+
+    <string-array name="timers">
+        <item>يوم</item>
+        <item>3 ايام</item>
+        <item>اسبوع</item>
+        <item>أبداً (لا تغير أي خلفية)</item>
+    </string-array>
+</resources>

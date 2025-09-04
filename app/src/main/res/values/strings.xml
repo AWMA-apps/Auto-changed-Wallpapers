@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Auto-changed Wallpapers Store</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="nav_downloaded_images">Downloaded</string>
+    <string name="about_app">About App</string>
+    <string name="share">Share App</string>
+    <string name="signout">Sign Out</string>
+    <string name="setWallpaper">Set Wallpaper</string>
+    <string name="download">Download</string>
+    <string name="it_s_seconds_to_load_image">It\'s seconds to load image...</string>
+    <string name="failedToLoadImage">Sorry, it failed to load image, please press to re-try again</string>
+    <string name="done">Done</string>
+    <string name="failed">Failed\n</string>
+    <string name="permissionNecessary">Storage Permission Necessary To Save Your Downloaded Wallpapers</string>
+    <string name="set_new_wallpaper_every">New Wallpaper Every:</string>
+    <string name="one_day">One Day</string>
+    <string name="download_over">Download Over</string>
+    <string name="any_thing">Any Thing</string>
+    <string name="keep_this_app_from_stopping">Keep This App From Stopping</string>
+    <string name="click_to_exclude_this_app">Click to exclude this app from battery optimization, which may leads to the suspension of the automatic phone wallpaper change service.</string>
+    <string name="enable_auto_changer_wallpaper">Enable Auto-changer Wallpaper</string>
+    <string name="share_msg">Very beautiful app for your phone screen wallpapers, Its Auto-change Wallpaper Store, get from Google Play\n</string>
+    <string name="version">Version</string>
+    <string name="OK">OK</string>
+    <string name="this_app">This App</string>
+    <string name="outOfBatOpt">Out Of Battery Optimization</string>
+    <string name="batOptDet">Go To >> Battery optimization >> Select: All apps >> Go to: </string>
+    <string name="disableIt"> >> Disable It</string>
+    <string name="cancel">Cancel</string>
+    <string name="wallpapers_source">Wallpapers Source:</string>
+    <string name="auto_change_service">Auto-Changer Service</string>
+    <string name="another_settings">Another Settings</string>
+    <string name="set_as">Set Wallpapers As:</string>
+    <string name="both">Home And Lock Screen</string>
+    <string name="you_have_not_made_any_favorite_image">You have not made any favorite image</string>
+    <string name="you_may_haven_t_downloaded_images_yet">You may haven\'t downloaded images yet</string>
+    <string name="folder_path">Folder Path</string>
+    <string name="category">Category : </string>
+    <string name="don_t_change_my_set_wallpaper">Don\'t Change My Set Wallpaper</string>
+    <string name="youHaventDownloadImages">WARNING!\nIt looks like you have not download any wallpaper yet!</string>
+    <string name="noFavImages">ERROR!\nYou don\'t have favorites images</string>
+    <string name="noImagesInFolder">WARNING!\nThis Folder Don\'t Have Valid Wallpapers</string>
+    <string name="selectValidFolder">Please Select A Valid Folder</string>
+    <string name="errorGettingCategories">Error Getting Categories</string>
+    <string name="selectAnyImage">Please select ANY Image Inside your the folder</string>
+    <string name="PERMISSION_GRANTED">PERMISSION_GRANTED</string>
+    <string name="PERMISSION_DENIED">PERMISSION_DENIED</string>
+    <string name="change_wallpaper_at">Change wallpaper at</string>
+    <string name="failedToLoadNewWallpaper">فشل تحميل خلفية جديدة بسبب مشكلة الاتصال بالانترنت</string>
+    <string name="update_wallpaper_daily">Update Wallpaper Daily</string>
+    <string name="wallpaper_every_day">Wallpaper Every Day.</string>
+    <string name="download_over_mobile_data">Download Over Mobile Data</string>
+    <string name="swONDesc">Switch ON to make this app change your wallpaper everyday</string>
+    <string name="privacyPolicy">Privacy Policy</string>
+    <string name="termsOfUse">Terms Of Use</string>
+    <string name="shareYourIdeas">Share your ideas</string>
+    <string name="thump_image">Thump Image</string>
+    <string name="settings_toolbar_title">Settings</string>
+    <string name="oneCategoryMustBeSelected">One Category Must Be Selected!</string>
+    <string name="errorSelectingCategory">Error happened when selecting this category</string>
+
+    <string-array name="set_as">
+        <item>Home Screen</item>
+        <item>Lock Screen</item>
+        <item>Home And Lock Screen</item>
+    </string-array>
+
+    <string-array name="dn_method">
+        <item>Any Thing</item>
+        <item>Wi-Fi Only</item>
+        <item>Mobile Data Only</item>
+    </string-array>
+
+    <string-array name="sources">
+        <item>This App\'s Wallpapers</item>
+        <item>Downloaded Wallpapers</item>
+        <item>Favorites Wallpapers</item>
+        <item>Specific Folder In This Device Storage</item>
+    </string-array>
+
+    <string-array name="timers">
+        <item>Day</item>
+        <item>3 Days</item>
+        <item>Week</item>
+        <item>Never (don\'t change)</item>
+    </string-array>
+</resources>

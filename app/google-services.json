@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "404567837590",
+    "firebase_url": "https://p650-w640-a677-default-rtdb.firebaseio.com",
+    "project_id": "p650-w640-a677",
+    "storage_bucket": "p650-w640-a677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404567837590:android:e2df7c1c8ea8d394272bb7",
+        "android_client_info": {
+          "package_name": "com.beladsoft.phone_background"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404567837590-7rh31hk9sqm6ukmgdulkm367ie9gklia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beladsoft.phone_background",
+            "certificate_hash": "324ea657ae7eacef60811210e4fff27589543c78"
+          }
+        },
+        {
+          "client_id": "404567837590-cugeb6gc8q7v6uf946t4u25v4u0ka2df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beladsoft.phone_background",
+            "certificate_hash": "4b4f6d768d842355f476372a53119dce719e9a56"
+          }
+        },
+        {
+          "client_id": "404567837590-a63jojsa3n2f7iisgfkn269bfushi597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCe6R5AZHC-SFBVCnPJVC8Pki_Oiy1TQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404567837590-a63jojsa3n2f7iisgfkn269bfushi597.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

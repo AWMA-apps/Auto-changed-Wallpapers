@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AutochangedPhoneBackgrounds" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/nightPrimary</item>
+        <item name="colorPrimaryDark">@color/nightPrimaryDark</item>
+        <item name="colorAccent">@color/nightAccent</item>
+        <item name="colorOnSurface">@color/surface_night</item>
+        <item name="colorOnSecondary">@color/nav_night</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="itemTextColor">@color/green</item>
+        <item name="itemIconTint">@color/gray</item>
+        <item name="colorOnBackground">@color/nightPrimaryDark</item>
+        <item name="colorOnSecondaryContainer">#000000</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
